@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Старинная каменная печать",
+    "avg_price": 4.6,
+    "latest_price": 5,
+    "best_price": 5,
+    "remainings": 49935
+  },
+  {
+    "name": "Кальдарский золотистый карп",
+    "avg_price": 5.9,
+    "latest_price": 6,
+    "best_price": 5,
+    "remainings": 29
+  },
+  {
+    "name": "Орейский золотистый карп",
+    "avg_price": 5.9,
+    "latest_price": 5,
+    "best_price": 6,
+    "remainings": 2
+  },
+  {
+    "name": "Пышный полевой цветок",
+    "avg_price": 3.6,
+    "latest_price": 10,
+    "best_price": 10,
+    "remainings": 146
+  },
+  {
+    "name": "Запасные детали",
+    "avg_price": 14.0,
+    "latest_price": 14,
+    "best_price": 14,
+    "remainings": 3037
+  },
+  {
+    "name": "Ремелит рыболова",
+    "avg_price": 5.4,
+    "latest_price": 5,
+    "best_price": 14,
+    "remainings": 1
+  },
+  {
+    "name": "Отборная древесина",
+    "avg_price": 14.7,
+    "latest_price": 15,
+    "best_price": 15,
+    "remainings": 2
+  },
+  {
+    "name": "Истинная железная руда",
+    "avg_price": 25.0,
+    "latest_price": 20,
+    "best_price": 20,
+    "remainings": 1
+  },
+  {
+    "name": "Ароматный гриб",
+    "avg_price": 17.6,
+    "latest_price": 20,
+    "best_price": 20,
+    "remainings": 437
+  },
+  {
+    "name": "Свежая орейская вырезка",
+    "avg_price": 26.2,
+    "latest_price": 24,
+    "best_price": 25,
+    "remainings": 195
+  },
+  {
+    "name": "Осколки древней реликвии",
+    "avg_price": 137.7,
+    "latest_price": 1832,
+    "best_price": 132,
+    "remainings": 106
+  },
+  {
+    "name": "Гнилой гриб",
+    "avg_price": 217.1,
+    "latest_price": 216,
+    "best_price": 210,
+    "remainings": 254
+  },
+  {
+    "name": "Ремелит охотника",
+    "avg_price": 10.6,
+    "latest_price": 10,
+    "best_price": 235,
+    "remainings": 5
+  },
+  {
+    "name": "Инструменты ...",
+    "avg_price": 4357.2,
+    "latest_price": 4444,
+    "best_price": 4444,
+    "remainings": 71
+  },
+  {
+    "name": "Инструменты ...",
+    "avg_price": 24837.3,
+    "latest_price": 24000,
+    "best_price": 25555,
+    "remainings": 1
+  },
+  {
+    "name": "Железная руда",
+    "avg_price": 27.6,
+    "latest_price": 23,
+    "best_price": 23,
+    "remainings": 189
+  },
+  {
+    "name": "Орейская руническая плита",
+    "avg_price": 30.4,
+    "latest_price": 28,
+    "best_price": 28,
+    "remainings": 30
+  },
+  {
+    "name": "Свежая кальларская вырезка",
+    "avg_price": 44.5,
+    "latest_price": 50,
+    "best_price": 37,
+    "remainings": 3
+  },
+  {
+    "name": "Инструменты ...",
+    "avg_price": 471.0,
+    "latest_price": 47,
+    "best_price": 44,
+    "remainings": 72
+  },
+  {
+    "name": "Крепкие доски",
+    "avg_price": 19.5,
+    "latest_price": 6,
+    "best_price": 6,
+    "remainings": 48
+  },
+  {
+    "name": "Обычная древесина",
+    "avg_price": 15.5,
+    "latest_price": 30,
+    "best_price": 30,
+    "remainings": 64
+  },
+  {
+    "name": "Жухлый полевой цветок",
+    "avg_price": 110.7,
+    "latest_price": 109,
+    "best_price": 109,
+    "remainings": 31
+  },
+  {
+    "name": "Ремелит археолога",
+    "avg_price": 53.7,
+    "latest_price": 300,
+    "best_price": 129,
+    "remainings": 3
+  },
+  {
+    "name": "Свежее мясо",
+    "avg_price": 172.1,
+    "latest_price": 159,
+    "best_price": 159,
+    "remainings": 21
+  },
+  {
+    "name": "Мелкая рыбешка",
+    "avg_price": 169.8,
+    "latest_price": 175,
+    "best_price": 175,
+    "remainings": 106
+  },
+  {
+    "name": "Красная рыба",
+    "avg_price": 1.0,
+    "latest_price": null,
+    "best_price": null,
+    "remainings": 285306
+  },
+  {
+    "name": "Инструменты ...",
+    "avg_price": 1.0,
+    "latest_price": null,
+    "best_price": null,
+    "remainings": 145
+  },
+  {
+    "name": "Кальларская руническая плита",
+    "avg_price": 1.0,
+    "latest_price": null,
+    "best_price": null,
+    "remainings": 1121
+  },
+  {
+    "name": "Свежий полевой цветок",
+    "avg_price": 2.3,
+    "latest_price": 3,
+    "best_price": 3,
+    "remainings": 20524
+  },
+  {
+    "name": "Крупная жемчужина",
+    "avg_price": 1.6,
+    "latest_price": 3,
+    "best_price": 3,
+    "remainings": 199174
+  },
+  {
+    "name": "Инструменты ...",
+    "avg_price": 2.0,
+    "latest_price": 3,
+    "best_price": 3,
+    "remainings": 665
+  },
+  {
+    "name": "Отборное мясо",
+    "avg_price": 4.5,
+    "latest_price": null,
+    "best_price": null,
+    "remainings": 341
+  },
+  {
+    "name": "Свежий гриб",
+    "avg_price": 3.6,
+    "latest_price": null,
+    "best_price": null,
+    "remainings": 6438
+  },
+  {
+    "name": "Отборная железная руда",
+    "avg_price": 5.5,
+    "latest_price": null,
+    "best_price": 5,
+    "remainings": 23
+  },
+  {
+    "name": "Плотная кожа",
+    "avg_price": 5.3,
+    "latest_price": 6,
+    "best_price": 5,
+    "remainings": 210
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Малый оружейный кристалл",
+    "avg_price": 1.9,
+    "latest_price": 2,
+    "best_price": 1,
+    "remainings": 249
+  },
+  {
+    "name": "Малый защитный кристалл",
+    "avg_price": 1.0,
+    "latest_price": 1,
+    "best_price": 1,
+    "remainings": 40591
+  },
+  {
+    "name": "Большой защитный кристалл",
+    "avg_price": 1.6,
+    "latest_price": 1,
+    "best_price": 1,
+    "remainings": 3097
+  },
+  {
+    "name": "Великий защитный кристалл",
+    "avg_price": 1.0,
+    "latest_price": 1,
+    "best_price": 1,
+    "remainings": 470899
+  },
+  {
+    "name": "Звездный бриллиант",
+    "avg_price": 1.0,
+    "latest_price": 1,
+    "best_price": 1,
+    "remainings": 626
+  },
+  {
+    "name": "Лунный бриллиант",
+    "avg_price": 1.0,
+    "latest_price": 1,
+    "best_price": 1,
+    "remainings": 768
+  },
+  {
+    "name": "Изумруд Гивэны",
+    "avg_price": 1.9,
+    "latest_price": 2,
+    "best_price": 2,
+    "remainings": 8760
+  },
+  {
+    "name": "Большой оружейный кристалл",
+    "avg_price": 3.0,
+    "latest_price": 3,
+    "best_price": 3,
+    "remainings": 1598
+  },
+  {
+    "name": "Истинный защитный кристалл",
+    "avg_price": 2.5,
+    "latest_price": 3,
+    "best_price": 3,
+    "remainings": 145836
+  },
+  {
+    "name": "Кристалл Сириона",
+    "avg_price": 2.4,
+    "latest_price": 5,
+    "best_price": 3,
+    "remainings": 30
+  }
+]
